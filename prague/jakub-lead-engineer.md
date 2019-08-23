@@ -17,7 +17,7 @@ The last thing is hiring - we have very ambitious plans when it comes to growing
 For that we need to hire a lot of great engineers and that takes a lot of time and effort.
 Fortunately, we don't make compromises and hire for quality instead of quantity.
 
-## Why I like working here
+## What's keeping me here
 
 As should be obvious from the first part of this page, my job is super varied.
 Every day is different and I love that.
