@@ -6,7 +6,7 @@ My typical day in Pipedrive mostly involves writing frontend code for�
 
 Additionally to writing my own code, my day also involves reviewing my teammates pull requests. There is such focus on quality on Pipedrive and in the team, that this practice is heavily promoted and rewarded. Needless to say, pull request's reviews are alway done in a constructive way that has only the intent for improving code and product quality.
 
-Not daily but quite on a regular basis the team will gather around and have engineering meetings of various kinds.These meetings can have the purpose of either improving or discussing future of the product, pitching and idea, technology or practice, or to share some knowledge on a particular topic.
+Not daily but quite on a regular basis the team will gather around and have engineering meetings of various kinds. These meetings can have the purpose of either improving or discussing future of the product, pitching and idea, technology or practice, or to share some knowledge on a particular topic.
 
 Finally, it goes without saying that my day also involves squeezing a little session of video games or other activity with my colleagues. :video_game:
 
