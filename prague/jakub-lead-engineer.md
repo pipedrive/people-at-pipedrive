@@ -2,16 +2,16 @@
 
 ## My typical day
 
-My normal day is mostly spent on bulding product features.
-By that I mean working with the team to bring ideas to production and operate our services.
-From discussing the requirements with PMs to designing the architecture, developing and reviewing the code. 
+My normal day is mostly spent on delivering product features.
+By that I mean working with the team to bring ideas to production and running our services.
+This takes a lot of activities from the software delivery lifecycle: agreeing on the requirements with PMs, designing the architecture with the team, developing and reviewing the code. 
 
-Another part of my job is spotting opportunities for improvements in how the tribe works together.
+Another part of my job is spotting opportunities for improvements in how the tribe works together and implementing those improvements.
 Recently, we introduced a knowledge sharing sessions, improved time to have the code reviewed, tried mob programming, etc.
 
 I am able to spend quite a lot of my day on improving the code quality.
-That will pay of greatly in the long term.
-That includes things like improving monitoring, code structure, reducing technical debt, etc.
+That will pay off greatly in the long term.
+That includes things like improving monitoring, architecture, reducing technical debt, etc.
 
 The last thing is hiring - we have very ambitious plans when it comes to growing the Prague office.
 For that we need to hire a lot of great engineers and that takes a lot of time and effort.
